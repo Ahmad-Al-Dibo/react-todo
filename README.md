@@ -1,5 +1,9 @@
 # Wat en Way
-In deze opdracht ga je een Todo App maken. Je zult een input veld hebben waar je een taak kunt invoeren, en een lijst waar de taken worden weergegeven. Je zult ook de mogelijkheid hebben om taken te verwijderen en te bewerken.
+In dit project heb ik een todo-app gemaakt met React. De app heeft de volgende functionaliteiten:
+- Je kunt een todo-item toevoegen
+- Je kunt een todo-item bewerken
+- Je kunt een todo-item verwijderen
+- geen refresh nodig
 
 # Wat heb ik geleerd?
 - Hoe je een React component maakt
